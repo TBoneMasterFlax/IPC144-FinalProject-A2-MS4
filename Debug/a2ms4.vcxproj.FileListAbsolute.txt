@@ -1,0 +1,2 @@
+C:\Users\TBone\source\repos\IPC144_Project_master\A2\MS4\Debug\a2ms4.exe
+C:\Users\TBone\source\repos\IPC144_Project_master\A2\MS4\Debug\a2ms4.pdb
